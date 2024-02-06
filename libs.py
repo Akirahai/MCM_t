@@ -7,3 +7,5 @@ import os
 import torch
 from torchsummary import summary
 from torch import nn
+from tabulate import tabulate
+import matplotlib.pyplot as plt
